@@ -27,3 +27,4 @@
 /Users/crodriguez/BlazorApp/obj/Release/net8.0/BlazorApp.pdb
 /Users/crodriguez/BlazorApp/obj/Release/net8.0/BlazorApp.genruntimeconfig.cache
 /Users/crodriguez/BlazorApp/obj/Release/net8.0/ref/BlazorApp.dll
+/Users/crodriguez/BlazorApp/obj/Release/net8.0/BlazorApp.sourcelink.json
