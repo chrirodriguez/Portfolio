@@ -1,7 +1,0 @@
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/BlazorApp
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/appsettings.Development.json
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/appsettings.json
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/BlazorApp.dll
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/BlazorApp.deps.json
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/BlazorApp.runtimeconfig.json
-/Users/crodriguez/BlazorApp/bin/Release/net8.0/publish/BlazorApp.pdb
